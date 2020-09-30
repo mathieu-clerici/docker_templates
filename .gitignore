@@ -1,1 +1,4 @@
 docker_django_api_template/restapi/__pycache__
+docker_django_api_template/api/__pycache__
+docker_django_api_template/apiproject/__pycache__
+docker_django_api_template/api/migrations/__pycache__
